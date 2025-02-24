@@ -1,1 +1,1 @@
-print("Hello world we are leaning Git")
+Hello world
